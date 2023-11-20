@@ -1,0 +1,11 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="82px" height="72px" viewBox="-0.5 -0.5 82 72" content="&lt;mxfile&gt;&lt;diagram id=&quot;ts-daMSqgM6WAXEspm1A&quot; name=&quot;第 1 页&quot;&gt;7ZZdb4MgFIZ/jfcK1XaXW9dtN0uW9GLXRM6EBKVBrO1+/ehAkbqlzRKzj+7GwOPhHM77oiHCy3J3r8iGPUoKIkIx3UX4NkIIp1fmeQB7C2bZwoJCcWpR4sGav4KDsaMNp1AHgVpKofkmhLmsKsh1wIhSsg3DXqQIq25IASOwzokY02dONbN0geaePwAvWFc5yVzDJemCXSc1I1S2A4RXEV4qKbUdlbsliIN2nS523d0nb/uNKaj0OQuQXbAlonG9uX3pfdcsVPT6oJmZVbIy8IbpUphZYoY2GuhIL7+BpG/LHAeQJWi1NyGtFy51YrCBZh1TIIjm2zA9cf4Vfbq+wpPkpjCK3VFLMpfHnTQ0j8MUtWxUDm7VUKijRGh2IpEmqgA9SmQGg7Y9evfhY0/wvydnehIfJYon82T2xz05ebx/oCfpVzyhpGZAnSu/yKDpPpp0MoOySzJoui9oOoPmF2XQKV2//xdnpv7qZ8P9/Rmv3gA=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 0 70 L 80 70" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 0 70 L 40 0" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 80 70 L 40 0" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 0 70 L 40 50" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 80 70 L 40 50" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 40 50 L 40 0" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="542px" height="103px" viewBox="-0.5 -0.5 542 103" content="&lt;mxfile&gt;&lt;diagram id=&quot;oMS_V70xdImPR_6qKJ3p&quot; name=&quot;第 1 页&quot;&gt;7Zhdb4MgFIZ/jfdVW1sv1+7rZsmSXuya6KmSoBhKq92vHw7wA9toGs02s5sGX+DAeR9OJVruLileGMriNxoCsZxFWFjuo+U4S98Rv6VwUYK3kULEcCgluxb2+BOUuFDqCYdwbA3klBKOs7YY0DSFgLc0xBjN28MOlLRXzVAEHWEfINJVP3DIY6lunHWtvwKOYr2y7fmyJ0F6sMrkGKOQ5g3JfbLcHaOUy1ZS7ICU3mlf5LznG73VxhikfMgEBeKMyEnlpvbFLzpZMUH4Kh62eYw57DMUlD25ICu0mCdEPNmiiY6ZNPuACxDxtwdMyI4SyoSW0rQMoZYDxqG4uWW7MkIcIKAJcHYRQ/QEX3mnDo+tvcwbKJQUNyhoDSn4URW59kc0lEXX7XL77fodJrmLnzPJG3Cm0vChrMM654ZFcjSEnRrsTb6R3OpKclpjQBDH53b4axmrFd4pFgtX3i6XN7zVIY70xAJQs5rFZwRaOT2BOGIR8E6gbwBV2oOYrOfOxDasNA/yUCa9cMdjspk7k03bSufeOumFOx4Tf+ZMVubxvrtO+uCOx0TT/4fyi14o9oCr0J+Gsjb/dGz/PiieSdcMNCKU1cyheOYB9+6slA6UCStl7vfhTqX4Y1WKGWhEKHO/EK/dkSqlQ3fCSpn7jXgyKM5iOihzvxJP9k4ZD4p4rD8JyuH1d1X36Qs=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <ellipse cx="40" cy="41" rx="40" ry="40" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="110" y="1" width="80" height="80" fill="none" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <path d="M 250 1 L 330 1" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 220 61 L 250 1" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 290 101 L 220 61" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 350 61 L 290 101" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 350 61 L 330 1" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 520 0 L 450 0" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 430 41 L 450 1" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 520 80 L 450 80" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 540 41 L 520 1" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 540 41 L 520 81" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 430 41 L 450 81" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+    </g>
+</svg>
